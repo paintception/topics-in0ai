@@ -1,2 +1,2 @@
-# topics-in0ai
+# topics-in-ai
 Guest Lecture
